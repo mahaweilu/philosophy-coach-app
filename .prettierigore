@@ -1,0 +1,5 @@
+# ignore all
+*
+
+# except .ts files in src(including children path)
+!src/**/*.ts
